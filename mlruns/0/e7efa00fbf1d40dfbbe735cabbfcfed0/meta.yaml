@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e7efa00fbf1d40dfbbe735cabbfcfed0/artifacts
+end_time: 1718683051152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7efa00fbf1d40dfbbe735cabbfcfed0
+run_name: placid-squid-796
+run_uuid: e7efa00fbf1d40dfbbe735cabbfcfed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718682991824
+status: 4
+tags: []
+user_id: erin

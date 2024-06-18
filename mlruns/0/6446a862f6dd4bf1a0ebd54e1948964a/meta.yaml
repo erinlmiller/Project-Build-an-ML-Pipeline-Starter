@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6446a862f6dd4bf1a0ebd54e1948964a/artifacts
+end_time: 1718680299928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6446a862f6dd4bf1a0ebd54e1948964a
+run_name: aged-koi-282
+run_uuid: 6446a862f6dd4bf1a0ebd54e1948964a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718680239661
+status: 3
+tags: []
+user_id: erin

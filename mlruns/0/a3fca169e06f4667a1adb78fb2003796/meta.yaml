@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a3fca169e06f4667a1adb78fb2003796/artifacts
+end_time: 1718674923787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3fca169e06f4667a1adb78fb2003796
+run_name: defiant-smelt-569
+run_uuid: a3fca169e06f4667a1adb78fb2003796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718674749941
+status: 3
+tags: []
+user_id: erin

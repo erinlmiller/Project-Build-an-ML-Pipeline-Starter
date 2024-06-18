@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/044ccb5a36ba4a7b8fbc92b124dc439d/artifacts
+end_time: 1718680300034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 044ccb5a36ba4a7b8fbc92b124dc439d
+run_name: gaudy-tern-771
+run_uuid: 044ccb5a36ba4a7b8fbc92b124dc439d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718680235028
+status: 3
+tags: []
+user_id: erin

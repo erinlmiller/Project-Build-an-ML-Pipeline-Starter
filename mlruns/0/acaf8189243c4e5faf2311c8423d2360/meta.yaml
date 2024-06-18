@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/acaf8189243c4e5faf2311c8423d2360/artifacts
+end_time: 1718684322545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acaf8189243c4e5faf2311c8423d2360
+run_name: salty-crow-876
+run_uuid: acaf8189243c4e5faf2311c8423d2360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718684283072
+status: 3
+tags: []
+user_id: erin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0e06d1ffaa2a42f59902d4ce9cf68542/artifacts
+end_time: 1718684282989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e06d1ffaa2a42f59902d4ce9cf68542
+run_name: sneaky-cow-339
+run_uuid: 0e06d1ffaa2a42f59902d4ce9cf68542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718684256389
+status: 3
+tags: []
+user_id: erin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1300e3532b93492dbdd7554511786496/artifacts
+end_time: 1718682581006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1300e3532b93492dbdd7554511786496
+run_name: unruly-bug-435
+run_uuid: 1300e3532b93492dbdd7554511786496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718682512911
+status: 4
+tags: []
+user_id: erin

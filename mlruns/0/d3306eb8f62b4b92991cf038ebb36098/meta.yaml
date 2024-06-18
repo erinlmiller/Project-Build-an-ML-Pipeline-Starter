@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d3306eb8f62b4b92991cf038ebb36098/artifacts
+end_time: 1718679334211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3306eb8f62b4b92991cf038ebb36098
+run_name: rare-duck-958
+run_uuid: d3306eb8f62b4b92991cf038ebb36098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718679287965
+status: 4
+tags: []
+user_id: erin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c89ba2a58bb543b4ab4b215033510c31/artifacts
+end_time: 1718684538655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c89ba2a58bb543b4ab4b215033510c31
+run_name: fortunate-mole-982
+run_uuid: c89ba2a58bb543b4ab4b215033510c31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718684391275
+status: 3
+tags: []
+user_id: erin

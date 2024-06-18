@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/115a6ebd0b8c4cf89b811d7a8578484f/artifacts
+end_time: 1718677317052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 115a6ebd0b8c4cf89b811d7a8578484f
+run_name: sneaky-trout-725
+run_uuid: 115a6ebd0b8c4cf89b811d7a8578484f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718677275485
+status: 4
+tags: []
+user_id: erin

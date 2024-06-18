@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/794f31d6686f44209646373ce4bca9e5/artifacts
+end_time: 1718677317207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 794f31d6686f44209646373ce4bca9e5
+run_name: intrigued-deer-507
+run_uuid: 794f31d6686f44209646373ce4bca9e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718677273029
+status: 4
+tags: []
+user_id: erin

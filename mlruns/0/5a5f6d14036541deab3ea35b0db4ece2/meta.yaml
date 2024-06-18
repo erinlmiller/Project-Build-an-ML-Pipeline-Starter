@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5a5f6d14036541deab3ea35b0db4ece2/artifacts
+end_time: 1718679334058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a5f6d14036541deab3ea35b0db4ece2
+run_name: wise-roo-31
+run_uuid: 5a5f6d14036541deab3ea35b0db4ece2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718679290485
+status: 4
+tags: []
+user_id: erin

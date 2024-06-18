@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7679b06b9bc6417885fbf1fa2bb19e8d/artifacts
+end_time: 1718679688277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7679b06b9bc6417885fbf1fa2bb19e8d
+run_name: enthused-owl-873
+run_uuid: 7679b06b9bc6417885fbf1fa2bb19e8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718679678097
+status: 3
+tags: []
+user_id: erin

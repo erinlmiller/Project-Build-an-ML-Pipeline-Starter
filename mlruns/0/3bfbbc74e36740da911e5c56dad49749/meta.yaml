@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3bfbbc74e36740da911e5c56dad49749/artifacts
+end_time: 1718674923892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bfbbc74e36740da911e5c56dad49749
+run_name: respected-robin-693
+run_uuid: 3bfbbc74e36740da911e5c56dad49749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718674653469
+status: 3
+tags: []
+user_id: erin

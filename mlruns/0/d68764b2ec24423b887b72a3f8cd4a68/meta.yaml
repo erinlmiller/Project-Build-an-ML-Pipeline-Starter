@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d68764b2ec24423b887b72a3f8cd4a68/artifacts
+end_time: 1718683330257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d68764b2ec24423b887b72a3f8cd4a68
+run_name: wistful-quail-325
+run_uuid: d68764b2ec24423b887b72a3f8cd4a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718683306795
+status: 4
+tags: []
+user_id: erin

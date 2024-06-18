@@ -1,0 +1,153 @@
+2024-06-17 23:01:20,933 INFO    StreamThr :45229 [internal.py:wandb_internal():87] W&B internal server running at pid: 45229, started at: 2024-06-17 23:01:20.933406
+2024-06-17 23:01:20,936 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: status
+2024-06-17 23:01:20,937 INFO    WriterThread:45229 [datastore.py:open_for_write():85] open: /home/erin/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240617_230120-a8sqm49g/run-a8sqm49g.wandb
+2024-06-17 23:01:20,937 DEBUG   SenderThread:45229 [sender.py:send():334] send: header
+2024-06-17 23:01:20,942 DEBUG   SenderThread:45229 [sender.py:send():334] send: run
+2024-06-17 23:01:20,943 INFO    SenderThread:45229 [sender.py:_maybe_setup_resume():721] checking resume status for None/nyc_airbnb/a8sqm49g
+2024-06-17 23:01:21,256 INFO    SenderThread:45229 [sender.py:_maybe_setup_resume():784] configured resuming with: ResumeState(resumed=True,step=1,history=0,events=1,output=0,runtime=3.823456,wandb_runtime=2,summary={'_wandb': {'runtime': 2}},config={'_wandb': {'desc': None, 'value': {'t': {'1': [55], '2': [55], '3': [23, 24], '4': '3.9.19', '5': '0.13.9', '8': [5]}, 'start_time': 1718679326.065207, 'cli_version': '0.13.9', 'is_jupyter_run': False, 'python_version': '3.9.19', 'is_kaggle_kernel': False}}})
+2024-06-17 23:01:21,693 INFO    SenderThread:45229 [dir_watcher.py:__init__():216] watching files in: /home/erin/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240617_230120-a8sqm49g/files
+2024-06-17 23:01:21,693 INFO    SenderThread:45229 [sender.py:_start_run_threads():1065] run started: a8sqm49g with start time 1718679677.110805
+2024-06-17 23:01:21,693 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: summary_record
+2024-06-17 23:01:21,693 INFO    SenderThread:45229 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-06-17 23:01:21,694 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: check_version
+2024-06-17 23:01:21,694 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: check_version
+2024-06-17 23:01:21,909 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: run_start
+2024-06-17 23:01:21,949 DEBUG   HandlerThread:45229 [system_info.py:__init__():31] System info init
+2024-06-17 23:01:21,949 DEBUG   HandlerThread:45229 [system_info.py:__init__():46] System info init done
+2024-06-17 23:01:21,949 INFO    HandlerThread:45229 [system_monitor.py:start():151] Starting system monitor
+2024-06-17 23:01:21,949 INFO    SystemMonitor:45229 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2024-06-17 23:01:21,950 INFO    SystemMonitor:45229 [interfaces.py:start():168] Started cpu
+2024-06-17 23:01:21,950 INFO    SystemMonitor:45229 [interfaces.py:start():168] Started disk
+2024-06-17 23:01:21,951 INFO    SystemMonitor:45229 [interfaces.py:start():168] Started gpu
+2024-06-17 23:01:21,951 INFO    SystemMonitor:45229 [interfaces.py:start():168] Started memory
+2024-06-17 23:01:21,952 INFO    SystemMonitor:45229 [interfaces.py:start():168] Started network
+2024-06-17 23:01:21,957 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: stop_status
+2024-06-17 23:01:21,958 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: stop_status
+2024-06-17 23:01:22,120 DEBUG   SenderThread:45229 [sender.py:send():334] send: telemetry
+2024-06-17 23:01:22,672 DEBUG   SenderThread:45229 [sender.py:send():334] send: use_artifact
+2024-06-17 23:01:22,697 INFO    Thread-12 :45229 [dir_watcher.py:_on_file_created():275] file/dir created: /home/erin/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240617_230120-a8sqm49g/files/wandb-summary.json
+2024-06-17 23:01:23,210 DEBUG   SenderThread:45229 [sender.py:send():334] send: telemetry
+2024-06-17 23:01:23,898 DEBUG   SenderThread:45229 [sender.py:send():334] send: use_artifact
+2024-06-17 23:01:24,455 DEBUG   SenderThread:45229 [sender.py:send():334] send: exit
+2024-06-17 23:01:24,455 INFO    SenderThread:45229 [sender.py:send_exit():557] handling exit code: 0
+2024-06-17 23:01:24,455 INFO    SenderThread:45229 [sender.py:send_exit():559] handling runtime: 4
+2024-06-17 23:01:24,456 INFO    SenderThread:45229 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-06-17 23:01:24,456 INFO    SenderThread:45229 [sender.py:send_exit():565] send defer
+2024-06-17 23:01:24,456 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:24,456 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 0
+2024-06-17 23:01:24,456 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:24,456 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 0
+2024-06-17 23:01:24,456 INFO    SenderThread:45229 [sender.py:transition_state():585] send defer: 1
+2024-06-17 23:01:24,456 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:24,456 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 1
+2024-06-17 23:01:24,456 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:24,456 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 1
+2024-06-17 23:01:24,456 INFO    SenderThread:45229 [sender.py:transition_state():585] send defer: 2
+2024-06-17 23:01:24,457 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:24,457 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 2
+2024-06-17 23:01:24,457 INFO    HandlerThread:45229 [system_monitor.py:finish():161] Stopping system monitor
+2024-06-17 23:01:24,457 DEBUG   SystemMonitor:45229 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2024-06-17 23:01:24,458 INFO    HandlerThread:45229 [interfaces.py:finish():175] Joined cpu
+2024-06-17 23:01:24,458 DEBUG   SystemMonitor:45229 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2024-06-17 23:01:24,458 INFO    HandlerThread:45229 [interfaces.py:finish():175] Joined disk
+2024-06-17 23:01:24,458 DEBUG   SystemMonitor:45229 [system_monitor.py:_start():141] Publishing last batch of metrics
+2024-06-17 23:01:24,463 INFO    HandlerThread:45229 [interfaces.py:finish():175] Joined gpu
+2024-06-17 23:01:24,463 INFO    HandlerThread:45229 [interfaces.py:finish():175] Joined memory
+2024-06-17 23:01:24,463 INFO    HandlerThread:45229 [interfaces.py:finish():175] Joined network
+2024-06-17 23:01:24,463 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:24,463 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 2
+2024-06-17 23:01:24,463 INFO    SenderThread:45229 [sender.py:transition_state():585] send defer: 3
+2024-06-17 23:01:24,463 DEBUG   SenderThread:45229 [sender.py:send():334] send: stats
+2024-06-17 23:01:24,463 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:24,463 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 3
+2024-06-17 23:01:24,464 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:24,464 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 3
+2024-06-17 23:01:24,464 INFO    SenderThread:45229 [sender.py:transition_state():585] send defer: 4
+2024-06-17 23:01:24,464 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:24,464 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 4
+2024-06-17 23:01:24,464 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:24,464 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 4
+2024-06-17 23:01:24,464 INFO    SenderThread:45229 [sender.py:transition_state():585] send defer: 5
+2024-06-17 23:01:24,464 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:24,464 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 5
+2024-06-17 23:01:24,465 DEBUG   SenderThread:45229 [sender.py:send():334] send: summary
+2024-06-17 23:01:24,465 INFO    SenderThread:45229 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-06-17 23:01:24,465 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:24,465 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 5
+2024-06-17 23:01:24,465 INFO    SenderThread:45229 [sender.py:transition_state():585] send defer: 6
+2024-06-17 23:01:24,465 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:24,465 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 6
+2024-06-17 23:01:24,465 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:24,465 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 6
+2024-06-17 23:01:24,467 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: status_report
+2024-06-17 23:01:24,671 INFO    SenderThread:45229 [sender.py:transition_state():585] send defer: 7
+2024-06-17 23:01:24,672 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:24,672 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 7
+2024-06-17 23:01:24,672 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:24,673 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 7
+2024-06-17 23:01:24,673 INFO    SenderThread:45229 [sender.py:transition_state():585] send defer: 8
+2024-06-17 23:01:24,673 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:24,673 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 8
+2024-06-17 23:01:24,674 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:24,674 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 8
+2024-06-17 23:01:24,674 INFO    SenderThread:45229 [sender.py:transition_state():585] send defer: 9
+2024-06-17 23:01:24,674 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:24,674 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 9
+2024-06-17 23:01:24,675 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:24,675 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 9
+2024-06-17 23:01:24,675 INFO    SenderThread:45229 [dir_watcher.py:finish():362] shutting down directory watcher
+2024-06-17 23:01:24,694 INFO    Thread-12 :45229 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/erin/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240617_230120-a8sqm49g/files/config.yaml
+2024-06-17 23:01:24,695 INFO    SenderThread:45229 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/erin/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240617_230120-a8sqm49g/files/wandb-summary.json
+2024-06-17 23:01:24,695 INFO    SenderThread:45229 [dir_watcher.py:finish():392] scan: /home/erin/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240617_230120-a8sqm49g/files
+2024-06-17 23:01:24,696 INFO    SenderThread:45229 [dir_watcher.py:finish():406] scan save: /home/erin/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240617_230120-a8sqm49g/files/wandb-summary.json wandb-summary.json
+2024-06-17 23:01:24,696 INFO    SenderThread:45229 [dir_watcher.py:finish():406] scan save: /home/erin/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240617_230120-a8sqm49g/files/config.yaml config.yaml
+2024-06-17 23:01:24,699 INFO    SenderThread:45229 [sender.py:transition_state():585] send defer: 10
+2024-06-17 23:01:24,700 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:24,700 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 10
+2024-06-17 23:01:24,701 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:24,701 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 10
+2024-06-17 23:01:24,701 INFO    SenderThread:45229 [file_pusher.py:finish():160] shutting down file pusher
+2024-06-17 23:01:25,444 INFO    Thread-15 :45229 [upload_job.py:push():143] Uploaded file /home/erin/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240617_230120-a8sqm49g/files/wandb-summary.json
+2024-06-17 23:01:25,456 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: poll_exit
+2024-06-17 23:01:25,457 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: poll_exit
+2024-06-17 23:01:25,487 INFO    Thread-16 :45229 [upload_job.py:push():143] Uploaded file /home/erin/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240617_230120-a8sqm49g/files/config.yaml
+2024-06-17 23:01:25,688 INFO    Thread-11 :45229 [sender.py:transition_state():585] send defer: 11
+2024-06-17 23:01:25,689 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:25,689 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 11
+2024-06-17 23:01:25,690 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:25,690 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 11
+2024-06-17 23:01:25,690 INFO    SenderThread:45229 [file_pusher.py:join():165] waiting for file pusher
+2024-06-17 23:01:25,690 INFO    SenderThread:45229 [sender.py:transition_state():585] send defer: 12
+2024-06-17 23:01:25,690 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:25,690 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 12
+2024-06-17 23:01:25,691 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:25,691 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 12
+2024-06-17 23:01:26,019 INFO    SenderThread:45229 [sender.py:transition_state():585] send defer: 13
+2024-06-17 23:01:26,020 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:26,020 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 13
+2024-06-17 23:01:26,021 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:26,021 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 13
+2024-06-17 23:01:26,021 INFO    SenderThread:45229 [sender.py:transition_state():585] send defer: 14
+2024-06-17 23:01:26,022 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: defer
+2024-06-17 23:01:26,022 INFO    HandlerThread:45229 [handler.py:handle_request_defer():170] handle defer: 14
+2024-06-17 23:01:26,023 DEBUG   SenderThread:45229 [sender.py:send():334] send: final
+2024-06-17 23:01:26,023 DEBUG   SenderThread:45229 [sender.py:send():334] send: footer
+2024-06-17 23:01:26,023 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: defer
+2024-06-17 23:01:26,023 INFO    SenderThread:45229 [sender.py:send_request_defer():581] handle sender defer: 14
+2024-06-17 23:01:26,024 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: poll_exit
+2024-06-17 23:01:26,026 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: poll_exit
+2024-06-17 23:01:26,027 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: poll_exit
+2024-06-17 23:01:26,028 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: poll_exit
+2024-06-17 23:01:26,029 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: server_info
+2024-06-17 23:01:26,030 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: get_summary
+2024-06-17 23:01:26,031 DEBUG   SenderThread:45229 [sender.py:send_request():361] send_request: server_info
+2024-06-17 23:01:26,034 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: sampled_history
+2024-06-17 23:01:26,494 INFO    MainThread:45229 [wandb_run.py:_footer_history_summary_info():3427] rendering history
+2024-06-17 23:01:26,494 INFO    MainThread:45229 [wandb_run.py:_footer_history_summary_info():3459] rendering summary
+2024-06-17 23:01:26,494 INFO    MainThread:45229 [wandb_run.py:_footer_sync_info():3383] logging synced files
+2024-06-17 23:01:26,495 DEBUG   HandlerThread:45229 [handler.py:handle_request():144] handle_request: shutdown
+2024-06-17 23:01:26,495 INFO    HandlerThread:45229 [handler.py:finish():841] shutting down handler
+2024-06-17 23:01:27,029 INFO    WriterThread:45229 [datastore.py:close():299] close: /home/erin/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240617_230120-a8sqm49g/run-a8sqm49g.wandb
+2024-06-17 23:01:27,494 INFO    SenderThread:45229 [sender.py:finish():1491] shutting down sender
+2024-06-17 23:01:27,494 INFO    SenderThread:45229 [file_pusher.py:finish():160] shutting down file pusher
+2024-06-17 23:01:27,494 INFO    SenderThread:45229 [file_pusher.py:join():165] waiting for file pusher

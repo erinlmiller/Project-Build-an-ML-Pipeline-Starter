@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4109e4f58b884fb792ff1216365ca70f/artifacts
+end_time: 1718676964296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4109e4f58b884fb792ff1216365ca70f
+run_name: hilarious-sponge-461
+run_uuid: 4109e4f58b884fb792ff1216365ca70f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718676963172
+status: 4
+tags: []
+user_id: erin

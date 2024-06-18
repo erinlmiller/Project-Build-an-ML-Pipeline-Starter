@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2fe30f27511e41be9c2cd3839511b55f/artifacts
+end_time: 1718712589245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fe30f27511e41be9c2cd3839511b55f
+run_name: abrasive-kit-171
+run_uuid: 2fe30f27511e41be9c2cd3839511b55f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718712588226
+status: 4
+tags: []
+user_id: erin

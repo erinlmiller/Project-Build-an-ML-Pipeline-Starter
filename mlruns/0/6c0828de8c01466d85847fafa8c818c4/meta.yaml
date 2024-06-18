@@ -1,0 +1,15 @@
+artifact_uri: file:///home/erin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6c0828de8c01466d85847fafa8c818c4/artifacts
+end_time: 1718684391186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c0828de8c01466d85847fafa8c818c4
+run_name: judicious-snipe-282
+run_uuid: 6c0828de8c01466d85847fafa8c818c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718684322630
+status: 3
+tags: []
+user_id: erin
